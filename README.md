@@ -8,4 +8,4 @@ C# implementation for solving Lonpos 3D pyramind puzzles like in https://www.you
 Cubido Coding Contest 1st place battleship algorithm, details: http://arnosoftwaredev.blogspot.com/2008/05/cubido-c-pirates-programming-competition.html
 
 ## Sudoku
-Backtracking algorithm for comparing C++, C# and Java performance.
+Sudoku solver backtracking algorithm for comparing C++, C# and Java performance.
